@@ -1,5 +1,5 @@
 const fuentes = [
-    "Página institucional",
+    "Página gubernamental",
     "Líder comunitario",
     "Mensaje reenviado",
     "Documento oficial"

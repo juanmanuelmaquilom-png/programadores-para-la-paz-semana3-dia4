@@ -1,5 +1,5 @@
 const mensajes = [
-    "Invitación a reunión comunitaria",
+    "Invitacion a la jornada de limpieza",
     "Aviso sin fecha confirmada",
     "Convocatoria con lugar y hora definidos",
     "Mensaje que debe revisarse antes de publicar"
